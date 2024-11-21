@@ -1,0 +1,37 @@
+,lasso_coefs
+avg_PymatgenData mean atomic_radius,0.29823044979209296
+wf_diff,0.1578294962036087
+avg_PymatgenData mean atomic_mass,0.14935691000064422
+avg_workfunction,0.14752856337821912
+avg_PymatgenData std_dev atomic_radius,0.09009192220527883
+avg_PymatgenData maximum X,0.07293379669306689
+Mismatch,0.05890290584232559
+band_alignment_1,0.04759475862510627
+avg_cbmsite_atomic_vol,0.030619486259767223
+avg_cbm_spd_card,0.02210559649897182
+avg_PymatgenData range X,0.018189883409314402
+avg_vbm_sd,0.01645503351779102
+min_vbm,0.011640416105971984
+avg_emass_vb_dir1,0.0014678537233735595
+avg_PymatgenData std_dev X,2.503695256814937e-15
+avg_PymatgenData minimum melting_point,-0.0012511589065447503
+avg_PymatgenData minimum thermal_conductivity,-0.009552076599738292
+avg_emass_cb_dir1,-0.009983325811863621
+avg_cbm_character_p,-0.010469885069961125
+avg_alphax,-0.012588865294902234
+avg_cbmsite_vdw_radius,-0.018362611375182046
+avg_vbm_pd,-0.01867208193077319
+avg_cbm_s,-0.030178348841707735
+avg_E_B,-0.032116268534934295
+avg_PymatgenData maximum thermal_conductivity,-0.03273699644748168
+avg_alphaz,-0.03574608881403862
+band_alignment_3,-0.043459660265813806
+avg_gap_dir_nosoc,-0.058195791344419434
+avg_cbm_pd,-0.06734846790072997
+avg_cbm_score,-0.09294522620311253
+avg_c_12,-0.10956274917044774
+avg_PymatgenData minimum atomic_mass,-0.10959138713667563
+max_vbm,-0.18090801073685153
+min_cbm,-0.2553917568817666
+avg_gap_nosoc,-0.3518412868238426
+avg_lattice_param,-0.5292473004831224
